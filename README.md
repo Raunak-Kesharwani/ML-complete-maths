@@ -12,7 +12,9 @@
 
 #### Arithmetic & Pre-Algebra
 o	Numbers: integers, rationals, reals
+
 o	Fractions, decimals, percentages
+
 o	Exponents, roots, logarithms (very important for ML loss functions)
 
 [chatgpt link]()
