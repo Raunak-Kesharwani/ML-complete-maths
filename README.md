@@ -15,7 +15,7 @@ o	Numbers: integers, rationals, reals
 o	Fractions, decimals, percentages  
 o	Exponents, roots, logarithms (very important for ML loss functions)  
 
-[chatgpt link]()  
+[chatgpt link](https://chatgpt.com/share/693829e6-283c-8001-8bbc-5b7e95a8d1f3)  
 [pdf to download]()  
 
 #### 2.	Basic Algebra
@@ -23,13 +23,156 @@ o	Linear equations, inequalities
 o	Quadratic equations, polynomials  
 o	Functions & graphs (linear, quadratic, exponential, logarithmic)  
 
-[chatgpt link]()  
+[chatgpt link](https://chatgpt.com/share/693018c1-26a0-8001-9382-6c266612ffcd)  
 [pdf to download]()  
 
 #### 3.	Geometry & Trigonometry
 o	Coordinate geometry (points, lines, slopes, distance)  
 o	Trigonometric functions (sin, cos, tan), unit circle  
 o	Trig identities & transformations (used in Fourier, signals, ML kernels)  
+
+[chatgpt link](https://chatgpt.com/share/6932ec6a-07e0-8001-879d-54ce3e717c82)  
+[pdf to download]()  
+
+#### 4.	Basic Set Theory & Logic
+o	Sets, unions, intersections  
+o	Logical statements, truth tables  
+o	Proof methods (direct, contradiction, induction)  
+
+[chatgpt link](https://chatgpt.com/share/69382a3e-a0f8-8001-b7fd-4c6bfb770222)  
+[pdf to download]()  
+
+### Phase 1: Pre-Calculus → Calculus Foundations
+
+#### 5. Functions & Sequences
+o	Types of functions (linear, polynomial, rational, exponential, logarithmic)  
+o	Sequences & series (arithmetic, geometric)  
+o	Convergence & limits  
+
+[chatgpt link](https://chatgpt.com/share/69382a58-faec-8001-8544-4227e07c9680)  
+[pdf to download]()  
+
+#### 6. Calculus (Single Variable)
+o	Limits & continuity  
+o	Differentiation: rules, product/quotient rule, chain rule  
+o	Applications: slopes, optimization problems  
+o	Integration: definite, indefinite, substitution  
+o	Area under curves, basic probability integrals  
+
+[chatgpt link](https://chatgpt.com/share/69382a89-338c-8001-9cd1-9e1e120d184c)  
+[pdf to download]()  
+
+### Phase 2: Multivariable & Linear Foundations
+
+#### 7. Linear Algebra Basics
+o	Vectors, matrices, operations  
+o	Linear equations & Gaussian elimination  
+o	Determinants, rank, inverses  
+o	Intro to eigenvalues & eigenvectors  
+
+[chatgpt link](https://chatgpt.com/share/69382aaa-3c28-8001-8a1d-8ff40453d84a)  
+[pdf to download]()  
+
+#### 8. Multivariable Calculus
+o	Partial derivatives  
+o	Gradients, Jacobians, Hessians  
+o	Double & triple integrals  
+o	Vector calculus (divergence, curl, line integrals — optional depth)  
+
+[chatgpt link](https://chatgpt.com/share/69382ad1-1e44-8001-b4b7-a184a7b997af)  
+[pdf to download]()  
+
+### Phase 3: Probability & Statistics Foundations
+
+
+#### 9. Basic Probability
+o	Counting principles, permutations, combinations  
+o	Sample spaces & events  
+o	Basic probability rules (union, intersection, complement)  
+
+[chatgpt link](https://chatgpt.com/share/69382af4-9f54-8001-aa7a-2045c14ca36c)  
+[pdf to download]()  
+
+#### 10. Random Variables & Distributions
+•	Discrete vs continuous random variables  
+•	Common distributions: Binomial, Poisson, Uniform, Normal  
+•	Expectation, variance, covariance  
+
+[chatgpt link](https://chatgpt.com/share/69382b14-fe78-8001-b790-48bf5034125d)  
+[pdf to download]()  
+
+#### 11. Statistics Basics
+•	Mean, median, mode  
+•	Standard deviation, variance  
+•	Correlation vs causation  
+Phase 4: Intermediate Math for ML/Finance  
+
+[chatgpt link]()  
+[pdf to download]()  
+
+#### 12. Advanced Linear Algebra 
+•	Vector spaces, basis, dimension  
+•	Orthogonality & projections  
+•	Eigen decomposition, SVD, PCA  
+•	Tensors  
+
+[chatgpt link]()  
+[pdf to download]()  
+
+#### 13. Probability & Statistics (Intermediate)
+•	Conditional probability, Bayes theorem  
+•	Law of large numbers, central limit theorem  
+•	Estimators: MLE, MAP  
+•	Hypothesis testing, confidence intervals  
+
+[chatgpt link]()  
+[pdf to download]()  
+
+#### 14. Optimization Basics
+•	Unconstrained optimization (grad descent, Newton’s method)  
+•	Constrained optimization (Lagrange multipliers)  
+•	Convexity basics  
+
+[chatgpt link]()  
+[pdf to download]()  
+
+### Phase 5: Advanced (Research/Finance/AI)
+
+#### 15. Information Theory
+•	Entropy, cross-entropy, KL divergence  
+•	Mutual information  
+
+[chatgpt link]()  
+[pdf to download]()  
+
+#### 16. Stochastic Processes
+•	Random walks, Markov chains  
+•	Brownian motion, Ito calculus   
+•	Time-series models (ARIMA, GARCH)  
+
+[chatgpt link]()  
+[pdf to download]()  
+
+#### 17. Advanced Probability/Measure Theory
+•	Sigma-algebras, measure spaces  
+•	Probability as measure  
+•	Rigorous foundation for stochastic finance  
+
+[chatgpt link]()  
+[pdf to download]()  
+
+#### 18. Statistical Learning Theory
+•	VC dimension, PAC learning  
+•	Generalization error bounds  
+•	Regularization theory  
+
+[chatgpt link]()  
+[pdf to download]()  
+
+#### 19. Specializations
+•	Financial mathematics (Black-Scholes, portfolio optimization, risk metrics)  
+•	Graph theory & PGMs  
+•	Game theory & decision theory  
 
 [chatgpt link]()  
 [pdf to download]()  
