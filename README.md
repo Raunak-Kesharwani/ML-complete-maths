@@ -111,12 +111,12 @@ Phase 4: Intermediate Math for ML/Finance
 [pdf to download]()  
 
 #### 12. Advanced Linear Algebra 
-•	Vector spaces, basis, dimension  
+•	Vector spaces, basis, dimension [chatgpt link](https://chatgpt.com/share/693a31a6-2a18-8001-a4c1-7a0f2b8565b4) [pdf to download]()  
 •	Orthogonality & projections  
-•	Eigen decomposition, SVD, PCA  
+•	Eigen decomposition [chatgpt link](https://chatgpt.com/share/693a31dd-815c-8001-8d35-4747cc08ac52) [pdf to download](), SVD, PCA [chatgpt link](https://chatgpt.com/share/693a31f3-5914-8001-b2c5-cc4873519a43) [pdf to download]()  
 •	Tensors  
 
-[chatgpt link]()  
+[chatgpt link](https://chatgpt.com/share/693a318d-2734-8001-b62a-bfbfb5093700)  
 [pdf to download]()  
 
 #### 13. Probability & Statistics (Intermediate)
